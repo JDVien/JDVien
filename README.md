@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Jason
 #### I am a backend & frontend software engineer 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' background-color='white'>](https://www.linkedin.com/in/jason-v-52a595237//) 
+<a href="https://www.linkedin.com/in/jason-v-52a595237//">LinkedIn</a> | 
+<a href="https://jdvien.github.io/">Personal Website</a>
 ![I am a backend & frontend software engineer](https://user-images.githubusercontent.com/93230276/170394525-b4619dd6-9541-4014-9b4c-5dc6f32aec83.png)
 
 I'm Jason, I'm from Sacramento, California. I'm a big fan of REACT and Python. I enjoy making things with or without a keyboard. Take a look at my stuff and talk to me about it, or, we can talk about some of the languages and frameworks I use, including but not exclusive to...
